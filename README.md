@@ -1,5 +1,6 @@
 <div align="center">
-# DanCode
+ 
+### DanCode
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://daniiidev.netlify.app)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/daniiidevv_)
