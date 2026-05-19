@@ -1,4 +1,4 @@
-<div align="center">
+c<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=32&duration=150&pause=9999&color=FFFFFF&center=true&vCenter=true&width=435&lines=DanCode)](https://git.io/typing-svg)
 
@@ -19,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=white)
+![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg)
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg)
 
 </div>
