@@ -1,6 +1,5 @@
 <div align="center">
- 
-### DanCode
+# DanCode
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://daniiidev.netlify.app)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/daniiidevv_)
@@ -23,4 +22,5 @@
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=white)
  
 </div>
+ 
  
