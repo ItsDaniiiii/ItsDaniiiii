@@ -11,7 +11,6 @@
 
 ### Lenguajes
 
-![Java]
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white)
