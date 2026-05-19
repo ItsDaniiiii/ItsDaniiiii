@@ -1,16 +1,15 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=150&pause=9999&color=FFFFFF&center=true&vCenter=true&width=435&lines=DanCode)](https://git.io/typing-svg)
-
+# DanCode
+ 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://daniiidev.netlify.app)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/daniiidevv_)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsDaniiiii)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1286117886506831974)
-
+ 
 ---
-
+ 
 ### Lenguajes
-
+ 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -21,5 +20,6 @@
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=white)
-
+ 
 </div>
+ 
