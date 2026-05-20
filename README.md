@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=32&duration=150&pause=9999&color=FFFFFF&center=true&vCenter=true&width=435&lines=DanCode)](https://git.io/typing-svg)
+### Hola, soy DanCode
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://daniiidev.netlify.app)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/daniiidevv_)
