@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hola, soy DanDevv</h1>
+<h1 align="center">👋 Hola, soy Daniel</h1>
 
 <p align="center">
-💻 Software Developer •  Minecraft Modding 
+Software Developer •  Minecraft Modding 
 </p>
 
 ---
@@ -54,15 +54,6 @@ public class DanDevv {
 
 `RubyMine`
 
-</p>
-
----
-
-## Estadísticas
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DanDevv&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanDevv&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
