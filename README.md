@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hola, soy Daniel</h1>
+<h1 align="center">👋 Hola, soy DanDevv</h1>
 
 <p align="center">
-💻 Software Developer •  Minecraft Developer •  Siempre aprendiendo
+💻 Software Developer •  Minecraft Modding 
 </p>
 
 ---
@@ -11,24 +11,10 @@
 ```java
 public class DanDevv {
 
-    String name = "DanDevv";
+    String name = "Daniel";
+    String username = "DanDevv";
     String role = "Software Developer";
-    String language = "Español";
-
-    String[] skills = {
-        "Java",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Git",
-        "GitHub"
-    };
-
-    String[] interests = {
-        "Software Development",
-        "Minecraft Modding",
-        "Open Source"
-    };
+    String[] languages = {"Español", "English", "Français"};
 
     boolean learning = true;
 }
@@ -36,11 +22,37 @@ public class DanDevv {
 
 ---
 
-## Tecnologías
+## Lenguajes
 
-<p align="left">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,python,ruby,lua,js,ts,html,css,cs" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode,idea"/>
+---
+
+## Frameworks
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,electron,react" />
+</p>
+
+<p align="center">
+
+`Fabric` • `Forge` • `Paper` • `Spigot`
+
+</p>
+
+---
+
+## Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vite,gradle,git,github,vscode,idea,webstorm" />
+</p>
+
+<p align="center">
+
+`RubyMine`
 
 </p>
 
@@ -49,33 +61,17 @@ public class DanDevv {
 ## Estadísticas
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=DanDevv&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanDevv&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## Racha
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=DanDevv&theme=tokyonight"/>
-
 </p>
 
 ---
 
 ## Actualmente
 
-- 💻 Actualmente estoy estudiando Ingeniería de Software 
-
+- Estudiando Ingeniería de Software.
 ---
 
 <p align="center">
-
-> *"Code. Learn. Improve. Repeat."*
-
-</p>
+<i>"Code. Learn. Improve. Repeat."</i>
+</p>>
