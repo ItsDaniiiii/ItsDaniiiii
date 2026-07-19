@@ -1,68 +1,61 @@
-<h1 align="center">👋 Hola, soy Daniel</h1>
+# Hola, soy Daniel
 
-<p align="center">
-Software Developer •  Minecraft Modding 
-</p>
+> Software Developer - Minecraft Modding
 
----
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.20.x-green)
+![Modding](https://img.shields.io/badge/Minecraft-Modding-blue)
+![Status](https://img.shields.io/badge/status-en%20desarrollo-yellow)
 
-## Sobre mí
+## Descripción
 
-```java
-public class DanDevv {
+Este proyecto es un mod para Minecraft creado con Java.  
+El objetivo principal es extender la experiencia del juego mediante nuevas funciones, objetos, entidades, mecánicas o sistemas personalizados.
 
-    String name = "Daniel";
-    String username = "DanDevv";
-    String role = "Software Developer";
-    String[] languages = {"Español", "English", "Français"};
+El repositorio está pensado para mostrar:
 
-    boolean learning = true;
-}
-```
+- Desarrollo con Java
+- Estructura de un proyecto de Minecraft Modding
+- Uso de Gradle
+- Organización de assets, modelos, texturas y código
+- Buenas prácticas para proyectos en GitHub
 
----
+## Características
 
-## Lenguajes
+- Nuevos items personalizados
+- Nuevos bloques o entidades
+- Assets y texturas propias
+- Registro de contenido dentro del juego
+- Código organizado por paquetes
+- Proyecto preparado para desarrollo y pruebas locales
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,ruby,lua,js,ts,html,css,cs" />
-</p>
+## Tecnologías Utilizadas
 
----
+- Java
+- Gradle
+- Minecraft Modding API
+- IntelliJ IDEA / VS Code
+- Git y GitHub
 
-## Frameworks
+## Estructura Del Proyecto
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,electron,react" />
-</p>
-
-<p align="center">
-
-`Fabric` • `Forge` • `Paper` • `Spigot`
-
-</p>
-
----
-
-## Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vite,gradle,git,github,vscode,idea,webstorm" />
-</p>
-
-<p align="center">
-
-`RubyMine`
-
-</p>
-
----
-
-## Actualmente
-
-- Estudiando Ingeniería de Software.
----
-
-<p align="center">
-<i>"Code. Learn. Improve. Repeat."</i>
-</p>>
+```txt
+src/
+ └── main/
+     ├── java/
+     │   └── com/tuusuario/tumod/
+     │       ├── TuMod.java
+     │       ├── item/
+     │       ├── block/
+     │       ├── entity/
+     │       └── event/
+     │
+     └── resources/
+         ├── assets/
+         │   └── tumod/
+         │       ├── textures/
+         │       ├── models/
+         │       └── lang/
+         │
+         └── data/
+             └── tumod/
