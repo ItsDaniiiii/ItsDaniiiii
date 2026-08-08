@@ -3,9 +3,7 @@
 # 👋 Hola, soy Daniel
 
 ### Software Developer · Minecraft Modder
-
-[![GitHub](https://img.shields.io/badge/GitHub-TU_USUARIO-181717?style=for-the-badge&logo=github)](https://github.com/TU_USUARIO)
-[![Discord](https://img.shields.io/badge/Discord-tuusuario-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+com)
 
 </div>
 
